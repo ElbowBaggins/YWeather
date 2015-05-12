@@ -1,5 +1,5 @@
 # YWeather
-## Yahoo! Weather API class for C\#
+## Yahoo! Weather API class for C&#35;
 
 The YWeather package includes the class "WeatherData". It is intended to, essentially, be a magical "black box" that novice developers can use to access Yahoo's weather API.
 
