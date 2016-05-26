@@ -1,5 +1,6 @@
 # YWeather
 ## Yahoo! Weather API class for C&#35;
+### [DEPRECATED] due to Yahoo! closing their weather API. It still sort of works, sometimes. Use at your own risk.
 
 The YWeather package includes the class "WeatherData". It is intended to, essentially, be a magical "black box" that novice developers can use to access Yahoo's weather API.
 
